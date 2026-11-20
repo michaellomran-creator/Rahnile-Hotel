@@ -1,0 +1,114 @@
+{
+  "reviews": [
+    {
+      "id": "rev-1",
+      "guestName": "Dawit Wolde",
+      "guestLocation": "Addis Ababa, Ethiopia",
+      "rating": 5,
+      "title": "Exceptional hospitality and wonderful terrace view",
+      "comment": "Stayed here for 3 nights during a regional conference. The staff at Rahnile went above and beyond to make our stay smooth. The evening terrace is so relaxing with cool breeze and good wine. Rooms are clean, hot water was consistent, and the location behind EEPCO is very convenient.",
+      "dateOfStay": "October 2024",
+      "createdAt": "2024-10-24T14:30:00Z",
+      "status": "approved",
+      "verifiedStay": true
+    },
+    {
+      "id": "rev-2",
+      "guestName": "Claire & Thomas B.",
+      "guestLocation": "Lyon, France",
+      "rating": 5,
+      "title": "A welcoming, peaceful base for exploring Lake Tana",
+      "comment": "We loved our time at RahNile Hotel. The reception team helped us organize an early morning boat trip to Ura Kidane Mehret monastery without any hassle. Dinner at the restaurant was authentic and tasty, and the room was quiet and well cared for.",
+      "dateOfStay": "November 2024",
+      "createdAt": "2024-11-12T09:15:00Z",
+      "status": "approved",
+      "verifiedStay": true
+    },
+    {
+      "id": "rev-3",
+      "guestName": "Dr. Samuel K.",
+      "guestLocation": "Hawassa, Ethiopia",
+      "rating": 4,
+      "title": "Reliable business hotel with great meeting facilities",
+      "comment": "Our NGO hosted a two-day workshop in their conference hall. Audio, seating, and tea breaks were executed smoothly. Fast Wi-Fi throughout the hotel and friendly service throughout our stay.",
+      "dateOfStay": "September 2024",
+      "createdAt": "2024-09-18T18:00:00Z",
+      "status": "approved",
+      "verifiedStay": true
+    },
+    {
+      "id": "rev-1795133633942-gejz5",
+      "guestName": "Yared Tadesse",
+      "guestLocation": "Gondar, Ethiopia",
+      "email": "yared@example.com",
+      "rating": 5,
+      "title": "Exceptional evening terrace and warm hospitality",
+      "comment": "The sunset terrace overlooking Lake Tana was unforgettable. The staff helped arrange our boat tour early in the morning and breakfast was rich and varied.",
+      "dateOfStay": "November 2024",
+      "createdAt": "2026-11-20T00:13:53.942Z",
+      "status": "pending",
+      "verifiedStay": false
+    },
+    {
+      "id": "rev-1795133717625-74i9j",
+      "guestName": "Marta Hailu",
+      "guestLocation": "Hawassa, Ethiopia",
+      "email": "marta@example.com",
+      "rating": 5,
+      "title": "Warmest hospitality and lovely sunset views",
+      "comment": "Our stay at Rahnile was wonderful. The rooms were impeccably prepared with fresh rose petals and swans, hot water worked reliably, and dinner on the terrace was delicious.",
+      "dateOfStay": "November 2024",
+      "createdAt": "2026-11-20T00:15:17.626Z",
+      "status": "approved",
+      "verifiedStay": false
+    }
+  ],
+  "bookings": [
+    {
+      "id": "book-sample-1",
+      "fullName": "Abebe Bekele",
+      "email": "abebe@example.com",
+      "phone": "+251 911 234 567",
+      "checkIn": "2024-12-15",
+      "checkOut": "2024-12-18",
+      "adults": 2,
+      "children": 0,
+      "roomsCount": 1,
+      "roomType": "deluxe-double-room",
+      "specialRequests": "Quiet floor requested. Arrival in the late afternoon from Addis Ababa flight.",
+      "createdAt": "2024-11-18T10:00:00Z",
+      "status": "new"
+    },
+    {
+      "id": "bk-1795133634179-zjjf",
+      "fullName": "Hanna Mesfin",
+      "email": "hanna.m@example.com",
+      "phone": "+251 912 345 678",
+      "checkIn": "2024-12-20",
+      "checkOut": "2024-12-24",
+      "adults": 2,
+      "children": 1,
+      "roomsCount": 1,
+      "roomType": "deluxe-double-room",
+      "specialRequests": "Would appreciate airport pickup from Bahir Dar Airport at 2:30 PM.",
+      "createdAt": "2026-11-20T00:13:54.179Z",
+      "status": "new"
+    },
+    {
+      "id": "bk-1795133717725-dare",
+      "fullName": "Dr. Samuel Kassa",
+      "email": "samuel.kassa@example.com",
+      "phone": "+251 911 888 999",
+      "checkIn": "2024-12-25",
+      "checkOut": "2024-12-28",
+      "adults": 2,
+      "children": 0,
+      "roomsCount": 1,
+      "roomType": "family-executive-suite",
+      "specialRequests": "Visiting Lake Tana for anniversary. Please arrange airport shuttle from Bahir Dar Airport at 11:30 AM.",
+      "createdAt": "2026-11-20T00:15:17.725Z",
+      "status": "confirmed",
+      "notes": "Contacted guest on WhatsApp, confirmed airport shuttle ET128."
+    }
+  ]
+}
